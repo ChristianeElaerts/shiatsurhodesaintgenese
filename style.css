@@ -53,9 +53,9 @@ ul{
 .header-link{
 	color: rgb(64, 64, 64);
 	text-align: right;
-	margin-right: 10px;
-	margin-top: 65px;
-	font-size: 20px;
+	margin-right: 70px;
+	margin-top: 35px;
+	font-size: 40px;
 	font-family: Prompt;
 }
 .presentation{
@@ -128,7 +128,7 @@ ul{
 		font-size: 75px;
 	}
 	.header-link{
-		font-size: 25px;
+		font-size: 35px;
 	}
 	.presentation, .services{
 		width: 96%;
