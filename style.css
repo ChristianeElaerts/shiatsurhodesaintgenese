@@ -140,6 +140,7 @@ ul{
 	}
 	.presentation-text{
 		font-size: 6.5vw;
+		font-family:none;
 		font-style: normal;
 		font-weight:0;
 	}
@@ -157,6 +158,7 @@ ul{
 	}
 	.services-text{
 		font-size: 6.5vw;
+		font-family: none;
 		font-style: normal;
 		font-weight:0;
 	}
