@@ -135,21 +135,21 @@ ul{
 		margin-left: 0px;
 	}
 	.presentation{
-		height: 2200px;
+		height: 2350px;
 		margin-top: 150px;
 	}
 	.presentation-text{
-		font-size: 62px;
+		font-size: 6.5vw;
 		font-family: Garamond;
 		font-style: normal;
 		font-weight:0;
 	}
 	.services{
-		height: 1850px;
+		height: 2150px;
 		margin-top: 150px;
 	}
 	.services-text{
-		font-size: 62px;
+		font-size: 6.5vw;
 		font-family: Garamond;
 		font-style: normal;
 		font-weight:0;
