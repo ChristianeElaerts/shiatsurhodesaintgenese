@@ -73,7 +73,7 @@ ul{
 	font-size: 20px;
 	font-family: Prompt;
 }
-.services{
+.services-fr, .services-nl{
 	height: 300px;
 	width: 850px;
 	background-color: rgba(255, 255, 255, 0.9);
@@ -118,14 +118,14 @@ ul{
 .contact-text-links{
 	display: inline;
 }
-@media (max-width: 1200px){
+@media (max-width: 1140px){
 	.header-photo-portrait{
 		height: 100px;
 		width: auto;
 		margin-top: 60px;
 	}
 	.header-title-main{
-		font-size: 65px;
+		font-size: 75px;
 	}
 	.header-link{
 		font-size: 35px;
@@ -144,9 +144,17 @@ ul{
 		font-style: normal;
 		font-weight:0;
 	}
-	.services{
+	.services-fr{
+		height: 1850px;
+		margin-top: 150px;
+		margin-left: 0px;
+		width: 96%;
+	}
+	.services-nl{
 		height: 2150px;
 		margin-top: 150px;
+		margin-left: 0px;
+		width: 96%;
 	}
 	.services-text{
 		font-size: 6.5vw;
