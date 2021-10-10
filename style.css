@@ -88,7 +88,28 @@ ul{
 	font-size: 20px;
 	font-family: Prompt;
 }
-
+.prices{
+	height: 200px;
+	width: 500px;
+	background-color: rgba(255, 255, 255, 0.9);
+	margin-top: 30px;
+	margin-left: 100px;
+	border-radius: 5%;
+	padding: 20px;
+}
+.prices-title{
+	font-size: 50px;
+	color: rgb(64, 64, 64);
+	letter-spacing: 5px;
+	text-align: center;
+	font-family: Zen Loop, Garamond;
+}
+.prices-text{
+	font-size: 25px;
+	text-align: center;
+	color: rgb(64, 64, 64);
+	font-family: Prompt;
+}
 .shiatsu-place-image{
 	height: 250px;
 	width: auto;
@@ -161,6 +182,21 @@ ul{
 		font-family: none;
 		font-style: normal;
 		font-weight:0;
+	}
+	.prices{
+		margin-left: 200px;
+	}
+	.prices-title{
+		font-family: none;
+	}
+	.prices-text{
+		font-family: none;
+	}
+	.shiatsu-place-image{
+		margin-top: 100px;
+	}
+	.contact{
+		margin-top: 150px;
 	}
 	.contact{
 		height: 170px;
